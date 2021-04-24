@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Kuis</string>
+    <string name="judul">Kuis Ibu</string>
+    <string name="button_mulai">Mulai Kuis</string>
+    <string name="correct_answer">Jawaban benar!</string>
+    <string name="wrong_answer">Jawaban salah!</string>
+    <string name="pertanyaan1">Hello wrodl!</string>
+    <string name="pertanyaan2">test2</string>
+    <string name="pertanyaan3">test3</string>
+    <string name="pertanyaan4">test4</string>
+    <string name="pertanyaan5">test5</string>
+    <string name="pertanyaan6">test6</string>
+    <string name="prev_text">Previous</string>
+    <string name="next_text">Next</string>
+</resources>
